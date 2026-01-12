@@ -64,7 +64,7 @@ Copy code
 ---
 ## 🖼️ UI Screenshot
 
-![Emotion Detection App UI](<img width="944" height="436" alt="image" src="https://github.com/user-attachments/assets/a2f151bb-94af-4e82-91b9-051f95682bf8" />)
+(<img width="944" height="436" alt="image" src="https://github.com/user-attachments/assets/a2f151bb-94af-4e82-91b9-051f95682bf8" />)
 
 ## 🚀 How to Run Locally
 
