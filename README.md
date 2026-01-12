@@ -121,9 +121,11 @@ Emotion classes: anger, fear, joy, love, sadness, surprise, neutral
 Dataset: Emotion Text Dataset
 
 Approx Accuracy: ~80%
+
 ## 🖼️ UI Screenshot
-![Emotion Detection App UI](<img width="944" height="436" alt="image" src="https://github.com/user-attachments/assets/5bad6b15-a01e-4ed9-ae0b-1f72124afa28" />
-)
+
+![Emotion Detection App UI](https://github.com/user-attachments/assets/5bad6b15-a01e-4ed9-ae0b-1f72124afa28)
+
 
 
 💡 Notes
