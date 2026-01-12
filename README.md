@@ -62,6 +62,9 @@ yaml
 Copy code
 
 ---
+## 🖼️ UI Screenshot
+
+![Emotion Detection App UI](<img width="944" height="436" alt="image" src="https://github.com/user-attachments/assets/a2f151bb-94af-4e82-91b9-051f95682bf8" />)
 
 ## 🚀 How to Run Locally
 
@@ -121,9 +124,6 @@ Emotion classes: anger, fear, joy, love, sadness, surprise, neutral
 Dataset: Emotion Text Dataset
 
 Approx Accuracy: ~80%
-
-## 🖼️ UI Screenshot
-![Emotion Detection App UI](image.png)
 
 💡 Notes
 ✔ This app provides a baseline emotion detection model.
